@@ -1,29 +1,30 @@
-<h1 align="center">Hi 👋, I'm Muhammad Khan</h1>
-<h3 align="center">WordPress Developer | Front-End Designer</h3>
+# 👋 Hi, I'm Muhammad Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadkhan-2008&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadkhan-2008" /> </p>
+## 🧑‍💻 About Me
+I’m a passionate WordPress Developer and Front-End Designer with over 5 months of hands-on experience building responsive, user-friendly websites. I enjoy turning ideas into digital reality and continually learning new tools and frameworks to improve my craft.
 
-### 🌱 About Me
+- 💼 **Current Role:** WordPress Developer & Front-End Designer
+- 📚 **Learning:** Advanced front-end techniques & WordPress development
+- 🤝 **Looking to Collaborate:** Open to front-end and WordPress projects
+- ✉️ **Contact:**
+  - [LinkedIn](https://linkedin.com/in/muhammad-khan-82677439b)
+  - [WhatsApp](https://wa.me/923163347485)
+- ⚡ **Fun Fact:** I love exploring new technologies and bringing creative ideas to life.
 
-- 💻 I’m a WordPress Developer and Front‑End Designer with over 5 months of experience building responsive websites.
-- 📖 Currently learning advanced front‑end and WordPress development.
-- 🤝 I’m looking to collaborate on front‑end and WordPress projects.
-- 📫 How to reach me: connect on [LinkedIn](https://linkedin.com/in/muhammad-khan-82677439b) or send me a message on [WhatsApp](https://wa.me/923163347485).
-- ⚡ Fun fact: I love exploring new technologies and turning ideas into reality.
 
----
-
-### 🌐 Connect with me
-
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-khan-82677439b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wa.me/923163347485" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/muhammad-khan-82677439b" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/923163347485" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
+## 🛠️ Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -35,26 +36,23 @@
 
 ---
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadkhan-2008&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadkhan-2008&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
-
+## 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadkhan-2008&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadkhan-2008&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammadkhan-2008&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadkhan-2008&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
